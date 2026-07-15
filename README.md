@@ -11,6 +11,6 @@
   ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<a href="https://planetlordd.atabook.org" target="_blank">
    <img src="https://i.postimg.cc/02nZvgdf/Untitled189-20260706010758.webp" alt="meow" width="20%"/>
 </a>ㅤㅤㅤ
-  <a href="https://prey.lol/@planetlord" target="_blank">
+  <a href="https://rentry.co/terranova" target="_blank">
    <img src="https://i.postimg.cc/qMvy8NyK/Untitled189-20260706010752.webp" alt="meow" width="20%"/>
 </a>
