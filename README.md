@@ -14,3 +14,8 @@
   <a href="https://rentry.co/terranova" target="_blank">
    <img src="https://i.postimg.cc/qMvy8NyK/Untitled189-20260706010752.webp" alt="meow" width="20%"/>
 </a>
+
+<p align="center">
+<a href="https://docs.google.com/document/d/1z4ul6yPd5LIOJ1_bN6ihUblsQf5wIt-z3MdDw-2Dx3Y/edit?tab=t.0">read my callout document.</a>
+</p>
+<p align="center">
